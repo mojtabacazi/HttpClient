@@ -1,3 +1,10 @@
+# Why use this instead of Original?
+
+* Up to 10x faster response time (Incorporates HTTP `Content-Length` header)
+* More to come...
+
+
+
 # HttpClient for Spark Core | Arduino
 
 This is a work in progress Http Client Library for the Spark Core. It is not ready for use other than for people who have very basic needs, or are willing to help with the development. Because of this, it is currently very verbose and makes heavy use of the serial connection so you can see what's going on. That said, if you are reasonably familiar with Arduino or embedded development you might find it useful. I am publishing it in this early stage mostly because I am myself just starting out with C++ and could use all the help I can get. If you find errors or bad code just let me know and I'll work on fixing it!
